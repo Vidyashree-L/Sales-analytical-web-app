@@ -1,0 +1,44 @@
+# Sales-analytical-web-app
+1.Create Project Folder
+
+Retail-Sales-Analytics-Dashboard
+│
+├── data
+│   └── retail_sales.csv
+│
+├── dashboard.py
+├── analysis.py
+├── requirements.txt
+├── README.md
+├── screenshots
+│   ├── dashboard.png
+│   └── kpi_report.png
+│
+└── output
+    └── sales_report.xlsx
+
+2.analysis.py
+
+Contains:
+
+Data cleaning
+KPI calculations
+SQL queries
+Excel export
+dashboard.py
+
+Contains:
+
+Streamlit dashboard
+Filters
+KPI cards
+Charts
+
+3.Create requirements.txt
+
+pandas
+numpy
+streamlit
+openpyxl
+plotly
+pandasql

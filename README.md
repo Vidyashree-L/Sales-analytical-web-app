@@ -1,1 +1,0 @@
-# Sales-analytical-web-app
