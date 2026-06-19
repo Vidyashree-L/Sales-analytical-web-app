@@ -40,3 +40,11 @@ streamlit run dashboard.py
 Processed 9,994 transactions
 Exposed 10+ KPIs
 Reduced manual reporting effort by ~5 hours/week
+
+
+## 5. Add Dashboard Screenshot
+<img width="1600" height="684" alt="image" src="https://github.com/user-attachments/assets/97624cbf-7214-4370-b7c8-c199221f8bec" />
+<img width="1600" height="679" alt="image" src="https://github.com/user-attachments/assets/6cfd0e1d-91d0-4ee9-a10d-039819fd6067" />
+
+
+
