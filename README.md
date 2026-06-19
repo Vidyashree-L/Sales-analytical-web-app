@@ -1,4 +1,4 @@
-4. Create README.md
+
 
 # Retail Sales Analytics Dashboard
 
